@@ -1,0 +1,804 @@
+<!-- ===================================================== -->
+<!--  ASTEROK VRAUGORN — IVORYHORN VAULTS PROFILE • Asterra -->
+<!--  Author: VelvetRuin (revamped for minotaur guardian)   -->
+<!-- ===================================================== -->
+
+<!-- =============== INLINE TAGLINE BOX ================== -->
+<details
+  style="
+    width:calc(100% - 20px);
+    max-width:660px;
+    margin:10px auto 22px;
+    overflow:hidden;
+    background:
+      radial-gradient(circle at 18% 10%,rgba(228,193,104,.14),transparent 35%),
+      radial-gradient(circle at 85% 92%,rgba(255,217,139,.10),transparent 34%),
+      linear-gradient(180deg,rgba(29,24,18,.96),rgba(18,15,11,.98));
+    border:1px solid rgba(255,217,139,.46);
+    border-radius:4px;
+    color:#F9F5EF;
+    font-family:'Cormorant Garamond','Times New Roman',serif;
+    box-shadow:
+      0 14px 34px rgba(0,0,0,.42),
+      inset 0 1px 0 rgba(255,255,255,.04),
+      inset 0 0 28px rgba(228,193,104,.04);
+  "
+>
+  <summary
+    style="
+      cursor:pointer;
+      list-style:none;
+      padding:15px 18px;
+      background:
+        linear-gradient(90deg,rgba(228,193,104,.18),rgba(72,58,42,.24),transparent);
+      border-bottom:1px solid rgba(255,217,139,.26);
+      color:#FFF9F2;
+      text-align:center;
+    "
+  >
+    <div
+      style="
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:11px;
+        font-weight:700;
+        letter-spacing:2px;
+        text-transform:uppercase;
+      "
+    >
+      ✦ Asterok Vraugorn — Guardian of the Ivoryhorn Vaults ✦
+    </div>
+
+    <div
+      style="
+        margin-top:6px;
+        color:#FFD080;
+        font-family:Arial,Helvetica,sans-serif;
+        font-size:10px;
+        font-weight:600;
+        letter-spacing:1.4px;
+        text-transform:uppercase;
+      "
+    >
+      Click to reveal story details ▼
+    </div>
+  </summary>
+
+  <div
+    style="
+      padding:22px 20px 24px;
+      background:linear-gradient(180deg,rgba(51,41,29,.42),rgba(28,22,18,.22));
+      color:#F1E8D9;
+      font-size:25px;
+      line-height:1.72;
+    "
+  >
+    <!-- mini tags -->
+    <div
+      style="
+        max-width:600px;
+        margin:0 auto 18px;
+        color:#D8B36A;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:12px;
+        line-height:1.9;
+        letter-spacing:1.15px;
+        text-align:center;
+        text-transform:uppercase;
+      "
+    >
+      [— ᴍɪɴᴏᴛᴀᴜʀ ɢᴜᴀʀᴅ — ᴍᴀʀʙʟᴇ & ɢᴏʟᴅ — ꜱʟᴏᴡ ʙᴜʀɴ — ꜱᴛᴏɪᴄ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ — ᴇᴀʀɴᴇᴅ ᴛʀᴜꜱᴛ —]
+    </div>
+
+    <!-- tagline -->
+    <div
+      style="
+        max-width:580px;
+        margin:0 auto;
+        color:#FFF9F2;
+        font-size:16px;
+        line-height:1.78;
+        font-style:italic;
+        text-align:center;
+      "
+    >
+      A vault bound by silence, a warden bound by oath—<br>
+      and the traveler bold enough to test their measure.
+    </div>
+
+    <!-- divider -->
+    <div
+      style="
+        width:68%;
+        height:1px;
+        margin:22px auto;
+        background:linear-gradient(
+          90deg,
+          transparent,
+          rgba(255,217,139,.78),
+          rgba(228,193,104,.72),
+          transparent);
+      "
+    ></div>
+
+    <!-- pull quote -->
+    <div
+      style="
+        max-width:525px;
+        margin:0 auto;
+        padding:18px 20px;
+        background:rgba(51,41,29,.80);
+        border-left:2px solid #D8B36A;
+        color:#FFF5E8;
+        font-size:16px;
+        line-height:1.75;
+        font-style:italic;
+        text-align:center;
+        box-shadow:inset 0 0 20px rgba(0,0,0,.15);
+      "
+    >
+      “Gold forgets names—<br>but I do not.”
+    </div>
+
+    <!-- second divider -->
+    <div
+      style="
+        width:68%;
+        height:1px;
+        margin:22px auto;
+        background:linear-gradient(
+          90deg,
+          transparent,
+          rgba(255,217,139,.78),
+          rgba(228,193,104,.72),
+          transparent);
+      "
+    ></div>
+
+    <!-- preview blurb -->
+    <div
+      style="
+        max-width:580px;
+        margin:0 auto;
+        color:#F1E8D9;
+        font-size:14px;
+        line-height:1.8;
+      "
+    >
+      Far beneath Ivoryhorn Palace, marble corridors cradle more gold
+      than kingdoms. Asterok Vraugorn has judged every footstep for
+      centuries, weighing intent rather than title. Marble keeps his
+      secrets; ingots hold their breath while he decides yours.
+    </div>
+
+    <!-- themes strip -->
+    <div
+      style="
+        max-width:600px;
+        margin:24px auto 0;
+        padding:16px 18px;
+        background:linear-gradient(180deg,rgba(51,41,29,.84),rgba(32,26,20,.78));
+        border-top:1px solid rgba(255,217,139,.32);
+        border-bottom:1px solid rgba(228,193,104,.28);
+        text-align:center;
+      "
+    >
+      <div
+        style="
+          color:#FFD080;
+          font-family:'Cinzel','Trajan Pro',serif;
+          font-size:9px;
+          font-weight:700;
+          letter-spacing:3px;
+          text-transform:uppercase;
+        "
+      >
+        ✦ Story Themes
+      </div>
+      <div
+        style="
+          margin-top:10px;
+          color:#F9F2E4;
+          font-size:12px;
+          line-height:1.75;
+          font-style:italic;
+        "
+      >
+        Labyrinth Treasury · Stoic Guardianship · Marble &amp; Gold Symbolism ·
+        Earned Trust · Slow-Burn Intimacy · Action as Affection
+      </div>
+    </div>
+  </div>
+</details>
+
+<div
+  style="
+    margin-top:12px;
+    padding-top:10px;
+    border-top:1px solid rgba(228,193,104,.18);
+    text-align:center;
+    font-family:Georgia,serif;
+  "
+>
+  <div
+    style="
+      font-size:11px;
+      font-style:italic;
+      line-height:1.6;
+      color:#EADFCF;
+      margin-bottom:8px;
+    "
+  >
+    If you’ve enjoyed Asterok’s story—or want to inspect the code—you can
+    find the source below.
+  </div>
+
+  <a
+    href="#"
+    target="_blank"
+    style="
+      display:inline-block;
+      padding:7px 16px;
+      background:rgba(255,217,139,.12);
+      border:1px solid rgba(255,217,139,.45);
+      border-radius:999px;
+      color:#FFE8C4;
+      font-size:12px;
+      font-weight:bold;
+      text-decoration:none;
+      letter-spacing:.5px;
+      transition:all .25s ease;
+    "
+  >
+    ✦ View Asterok's Profile Code
+  </a>
+</div>
+
+<br>
+
+<!-- =============== WORLD PROFILE (compact) ============== -->
+<div
+  style="
+    max-width:680px;
+    margin:0 auto;
+    overflow:hidden;
+    background:#18150F;
+    border:1px solid rgba(255,217,139,.46);
+    color:#FFF9F1;
+    font-family:'Cormorant Garamond','Times New Roman',serif;
+    box-shadow:0 24px 64px rgba(0,0,0,.75);
+  "
+>
+  <!-- 1 · VelvetRuin banner -->
+  <div
+    style="
+      padding:26px 28px 22px;
+      text-align:center;
+      background:linear-gradient(
+        180deg,
+        rgba(25,21,17,.95),
+        rgba(32,28,20,1)
+      );
+      border-bottom:1px solid rgba(228,193,104,.24);
+    "
+  >
+    <div
+      style="
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:10px;
+        letter-spacing:4px;
+        color:#FFD080;
+        text-transform:uppercase;
+      "
+    >
+      VelvetRuin Invites You to Enter
+    </div>
+    <div
+      style="
+        margin-top:10px;
+        width:90px;
+        height:1px;
+        background:linear-gradient(
+          90deg,
+          transparent,
+          rgba(255,217,139,.85),
+          transparent
+        );
+        margin-left:auto;
+        margin-right:auto;
+      "
+    ></div>
+  </div>
+
+  <!-- 2 · Logo + Asterra blurb -->
+  <div
+    style="
+      padding:42px 28px 34px;
+      text-align:center;
+      background:radial-gradient(
+          circle at top,
+          rgba(228,193,104,.10),
+          transparent 42%
+        ),
+        linear-gradient(180deg,#211B14,#18150F);
+      border-bottom:1px solid rgba(255,217,139,.36);
+    "
+  >
+    <img
+      src="https://i.postimg.cc/LXYTsqtz/702f971b-96aa-44b3-abe9-d3eed0b7d7f8.png"
+      alt="Ivoryhorn logo"
+      style="
+        display:block;
+        width:100%;
+        max-width:420px;
+        height:auto;
+        margin:0 auto;
+        object-fit:contain;
+        filter:drop-shadow(0 8px 18px rgba(0,0,0,.7));
+      "
+    >
+    <div
+      style="
+        margin:24px auto 0;
+        max-width:560px;
+        font-size:16px;
+        line-height:1.75;
+        font-style:italic;
+        color:#F5EBDD;
+      "
+    >
+      In Asterra’s gilded halls, stories echo like hoofbeats on marble—some
+      silent guardians, others roaring legacies.
+    </div>
+    <div
+      style="
+        margin:25px auto 0;
+        width:68%;
+        height:1px;
+        background:linear-gradient(90deg,transparent,#FFD080,transparent);
+      "
+    ></div>
+    <div
+      style="
+        margin-top:19px;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:9px;
+        letter-spacing:5px;
+        color:#FFD080;
+        text-transform:uppercase;
+      "
+    >
+      Asterra
+    </div>
+    <div
+      style="
+        margin-top:8px;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:11px;
+        letter-spacing:4px;
+        color:#D8B36A;
+        text-transform:uppercase;
+      "
+    >
+      World of Labyrinths • Echoes of Warded Hearts
+    </div>
+  </div>
+
+  <!-- 3 · Region intro -->
+  <div
+    style="
+      padding:36px 30px 28px;
+      text-align:center;
+    "
+  >
+    <div
+      style="
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:9px;
+        letter-spacing:5px;
+        color:#FFD080;
+        text-transform:uppercase;
+      "
+    >
+      Where Fortune Sleeps
+    </div>
+    <div
+      style="
+        margin-top:12px;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:31px;
+        font-weight:700;
+        color:#FFF9F1;
+      "
+    >
+      Ivoryhorn Palace
+    </div>
+    <div
+      style="
+        margin:8px auto 0;
+        font-size:14px;
+        font-style:italic;
+        color:#D6BB90;
+      "
+    >
+      Seat of Hoarded Splendor
+    </div>
+    <div
+      style="
+        margin:22px auto 0;
+        max-width:560px;
+        font-size:15px;
+        line-height:1.78;
+        color:#F7EFE3;
+      "
+    >
+      Cavernous vaults spiral beneath alabaster courts, each turn echoing
+      with legends of an oath-bound minotaur whose vigilance rivals time
+      itself.
+    </div>
+  </div>
+
+  <!-- 4 · Region image -->
+  <div
+    style="
+      margin:0 30px 38px;
+      border:1px solid rgba(255,217,139,.40);
+      background:#2D241B;
+    "
+  >
+    <img
+      src="https://i.postimg.cc/j2HvvwGn/f67a1db8-bb78-416d-b20d-41f7636947cf.png"
+      alt="Ivoryhorn exterior"
+      style="
+        display:block;
+        width:100%;
+        height:auto;
+        min-height:310px;
+        object-fit:cover;
+        filter:saturate(.9) contrast(1.05) brightness(.96);
+      "
+    >
+  </div>
+
+  <!-- 5 · Lifestyle image -->
+  <div style="padding:0 30px 22px;text-align:center;">
+    <div
+      style="
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:9px;
+        letter-spacing:5px;
+        color:#D8B36A;
+        text-transform:uppercase;
+      "
+    >
+      When Silence Reigns
+    </div>
+    <div
+      style="
+        margin-top:10px;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:27px;
+        font-weight:700;
+        color:#FFF9F1;
+      "
+    >
+      Quiet Hours Among Gold
+    </div>
+  </div>
+
+  <div
+    style="
+      margin:0 30px 40px;
+      background:#2D241B;
+      border:1px solid rgba(255,216,140,.38);
+    "
+  >
+    <img
+      src="https://i.postimg.cc/T3FmL2s3/c8f1f574-00c9-403f-8f7d-cf1d809af02f.png"
+      alt="Vault lifestyle"
+      style="display:block;width:100%;height:auto;object-fit:cover;"
+    >
+    <div
+      style="
+        padding:17px 19px;
+        text-align:center;
+        background:#2D241B;
+        border-top:1px solid rgba(255,216,140,.26);
+        font-size:14px;
+        line-height:1.65;
+        font-style:italic;
+        color:#EDE0D0;
+      "
+    >
+      Stillness weighs more than treasure.
+    </div>
+  </div>
+
+  <!-- 6 · Character reveal -->
+  <div
+    style="
+      padding:0 30px 24px;
+      text-align:center;
+    "
+  >
+    <div
+      style="
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:9px;
+        letter-spacing:5px;
+        color:#D8B36A;
+        text-transform:uppercase;
+      "
+    >
+      Your Story Begins With
+    </div>
+    <div
+      style="
+        margin-top:11px;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:31px;
+        font-weight:700;
+        color:#FFF9F1;
+      "
+    >
+      Asterok
+    </div>
+    <div
+      style="
+        margin-top:7px;
+        font-family:'Cinzel','Trajan Pro',serif;
+        font-size:10px;
+        letter-spacing:3px;
+        color:#FFD080;
+        text-transform:uppercase;
+      "
+    >
+      Guardian of the Ivoryhorn Vaults
+    </div>
+  </div>
+
+  <!-- 7 · Portrait -->
+  <div
+    style="
+      margin:0 30px 40px;
+      background:#2D241B;
+      border:1px solid rgba(228,193,104,.44);
+    "
+  >
+    <img
+      src="https://i.postimg.cc/5NjDbndT/4588a82a-a228-46cb-ba00-f06808b033b1.png"
+      alt="Asterok portrait"
+      style="
+        display:block;
+        width:100%;
+        height:auto;
+        min-height:500px;
+        object-fit:cover;
+        object-position:center top;
+        filter:saturate(.92) contrast(1.03) brightness(.99);
+      "
+    >
+    <div
+      style="
+        padding:18px 20px;
+        text-align:center;
+        background:#2D241B;
+        border-top:1px solid rgba(228,193,104,.28);
+      "
+    >
+      <div
+        style="
+          font-family:'Cinzel','Trajan Pro',serif;
+          font-size:20px;
+          font-weight:700;
+          color:#FFF9F1;
+        "
+      >
+        Keeper of Silent Fortune
+      </div>
+      <div
+        style="
+          margin-top:6px;
+          font-size:13px;
+          font-style:italic;
+          color:#D6BB90;
+        "
+      >
+        “The vault is safe—while I breathe.”
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ===================================================== -->
+<!--  ASTEROK — OPENING MESSAGE • UNDER 20K • Ivoryhorn Theme -->
+<!-- ===================================================== -->
+<div style="max-width:680px;margin:0 auto;overflow:hidden;
+            background:#18150F;border:1px solid rgba(255,217,139,.46);
+            color:#FFF9F1;font-family:'Cormorant Garamond','Times New Roman',serif;
+            box-shadow:0 24px 64px rgba(0,0,0,.76);">
+
+  <!-- ENTRY HEADER -->
+  <div style="padding:42px 28px 36px;text-align:center;
+              background:radial-gradient(circle at top,
+                rgba(228,193,104,.14),transparent 46%),
+                linear-gradient(180deg,#1F1A11,#18150F);
+              border-bottom:1px solid rgba(255,217,139,.40);">
+    <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:9px;
+                letter-spacing:5px;color:#FFD080;text-transform:uppercase;">
+      Entry&nbsp;I
+    </div>
+    <div style="margin-top:13px;font-family:'Cinzel','Trajan Pro',serif;
+                font-size:31px;font-weight:700;color:#FFF9F1;">
+      Marble Echo &amp; Gilded Silence
+    </div>
+    <div style="margin:12px auto 0;max-width:540px;font-size:15px;line-height:1.75;
+                font-style:italic;color:#E8D9C1;">
+      Every step beneath Ivoryhorn grows heavier<br>
+      when the vault’s hush calls you inward.
+    </div>
+    <div style="margin:27px auto 0;width:68%;height:1px;
+                background:linear-gradient(90deg,transparent,#FFD080,transparent);">
+    </div>
+  </div>
+
+  <!-- BEYOND THE COURTS -->
+  <div style="padding:36px 30px 18px;text-align:center;">
+    <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:9px;
+                letter-spacing:5px;color:#D8B36A;text-transform:uppercase;">
+      Beneath the Marble Courts
+    </div>
+    <div style="margin:16px auto 0;max-width:570px;font-size:20px;line-height:1.7;
+                color:#FFF9F1;">
+      Maps end long before Ivoryhorn’s vault begins.
+    </div>
+  </div>
+
+  <!-- FIRST PARAGRAPH -->
+  <div style="padding:8px 30px 36px;">
+    <div style="max-width:580px;margin:0 auto;font-size:15px;line-height:1.82;
+                color:#F7EFE3;">
+      Sun-bleached plazas descend into corridors of veined marble.  
+      Courtiers whisper of bottomless hoards; scholars quarrel over their
+      extent; dragons reroute sky-paths rather than disturb the guardian’s
+      silence.<br><br>
+      Travelers claim torches flare brighter where bare stone stood moments
+      before, as if the palace itself inhales between heartbeats.
+    </div>
+  </div>
+
+  <!-- SKEPTICISM -->
+  <div style="margin:0 30px 38px;padding:23px 20px;text-align:center;
+              background:#2D241B;border-top:1px solid rgba(255,217,139,.34);
+              border-bottom:1px solid rgba(255,217,139,.34);">
+    <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:19px;
+                color:#FFF9F1;">Most dismiss the legends as ledger-drama.</div>
+    <div style="margin:17px auto;width:46%;height:1px;
+                background:linear-gradient(90deg,transparent,#D8B36A,transparent);">
+    </div>
+    <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:22px;
+                font-weight:700;color:#D8B36A;">Until the vault calls you by name.</div>
+  </div>
+
+ <!-- SEALED INVITE -->
+<div style="padding:0 30px 20px;text-align:center;">
+  <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:9px;letter-spacing:5px;color:#FFD080;text-transform:uppercase;">
+    The Guardian’s Seal
+  </div>
+
+  <div style="margin-top:10px;font-family:'Cinzel','Trajan Pro',serif;font-size:27px;font-weight:700;color:#FFF9F1;">
+    Gold Ink &amp; Broken Marble
+  </div>
+</div>
+
+<div style="margin:0 30px 22px;padding:22px 20px;background:#2D241B;border-left:2px solid #D8B36A;font-size:15px;line-height:1.82;color:#F7EFE3;">
+
+  The parchment bears twin horns encircling a vault key pressed deep into warm wax the hue of raw brass.
+
+  <div style="margin:22px 0 18px;text-align:center;">
+    <img
+      src="https://i.postimg.cc/PqbGpJqJ/aed5128b-28df-46aa-8f52-416fbc5651a9.png"
+      alt="Ivoryhorn Vault Seal"
+      style="display:block;margin:0 auto;max-width:130px;width:38%;height:auto;filter:drop-shadow(0 0 8px rgba(216,179,106,.35));"
+    >
+  </div>
+
+  No plea.<br>
+  No threat.<br>
+  Only a single line scripted in shimmering gold.
+
+</div>
+
+<div style="margin:0 30px 34px;padding:23px 20px;text-align:center;background:#1F1812;border-top:1px solid rgba(255,217,139,.34);border-bottom:1px solid rgba(255,217,139,.34);font-size:19px;line-height:1.75;font-style:italic;color:#FFF9F1;">
+  “The Guardian of Ivoryhorn Vaults invites you to silence.”
+</div>
+
+  <!-- CURIOSITY -->
+  <div style="padding:0 30px 34px;">
+    <div style="max-width:580px;margin:0 auto;font-size:15px;line-height:1.82;
+                color:#F7EFE3;">
+      Guardians do not beckon; they bar passage.<br><br>
+      Yet the courier offered no pressure—only a bow and a promise:
+      the lifts would descend for you, should you choose to ride them.
+    </div>
+  </div>
+
+  <div style="margin:0 30px 38px;padding:21px;text-align:center;
+              background:#2D241B;border:1px solid rgba(228,193,104,.36);
+              font-family:'Cinzel','Trajan Pro',serif;font-size:20px;color:#FFF9F1;">
+    Curiosity rings louder than palace bells.
+  </div>
+
+  <!-- IMAGE PANEL -->
+  <div style="margin:0 30px 38px;background:#2D241B;border:1px solid rgba(255,216,140,.38);">
+    <img src="https://i.postimg.cc/9F62kvRK/15ee5228-8ce4-4fab-8410-9bdaa58d86ac.png"
+         style="display:block;width:100%;height:auto;min-height:320px;object-fit:cover;
+                filter:saturate(.94) contrast(1.03) brightness(.96);">
+    <div style="padding:16px 18px;text-align:center;border-top:1px solid rgba(255,216,140,.26);
+                font-size:14px;line-height:1.65;font-style:italic;color:#EDE0D0;">
+      Lantern halos drift along the vault like constellations of gold.
+    </div>
+  </div>
+
+  <!-- ARRIVAL -->
+  <div style="padding:0 30px 20px;text-align:center;">
+    <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:9px;letter-spacing:5px;
+                color:#D8B36A;text-transform:uppercase;">At the Vault’s Core</div>
+    <div style="margin-top:10px;font-family:'Cinzel','Trajan Pro',serif;font-size:28px;
+                font-weight:700;color:#FFF9F1;">Then His Eyes Find Yours</div>
+  </div>
+
+  <div style="margin:0 30px 34px;text-align:center;">
+    <div style="font-family:'Cinzel','Trajan Pro',serif;font-size:20px;font-weight:700;
+                color:#FFD080;">He does not speak.</div>
+    <div style="margin-top:5px;font-family:'Cinzel','Trajan Pro',serif;font-size:20px;
+                font-weight:700;color:#D8B36A;">The gold settles for him.</div>
+    <div style="margin:20px auto 0;max-width:580px;text-align:left;font-size:15px;line-height:1.82;
+                color:#F7EFE3;">
+      Quartz veins gleam over a towering frame—horns brushed by torchlight,
+      bronze eyes reflecting stacks of ingots.  
+      The chamber’s hush tilts toward his breath… and toward yours.
+    </div>
+  </div>
+
+  <!-- QUOTE -->
+  <div style="padding:0 30px 34px;">
+    <div style="text-align:center;font-family:'Cinzel','Trajan Pro',serif;font-size:9px;
+                letter-spacing:5px;color:#FFD080;text-transform:uppercase;">Asterok</div>
+    <div style="margin-top:19px;padding:23px 21px;background:#2D241B;
+                border:1px solid rgba(228,193,104,.34);font-size:18px;line-height:1.85;
+                font-style:italic;color:#FFF9F1;">
+      “Welcome to the silence that guards a kingdom.”<br><br>
+      “What intent carried your name this far?”
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div style="padding:34px 30px 40px;text-align:center;
+              background:radial-gradient(circle at bottom,
+                rgba(228,193,104,.12),transparent 48%),#18150F;
+              border-top:1px solid rgba(228,193,104,.30);">
+    <div style="max-width:560px;margin:0 auto;font-size:15px;line-height:1.82;
+                color:#F7EFE3;">
+      A single echo rolls through the gallery. He waits.<br>
+      The next resonance—forward or retreat—belongs to you alone.
+    </div>
+    <div style="margin:27px auto 0;width:68%;height:1px;
+                background:linear-gradient(90deg,transparent,#FFD080,transparent);"></div>
+    <div style="margin-top:18px;font-family:'Cinzel','Trajan Pro',serif;font-size:9px;
+                letter-spacing:4px;color:#D8B36A;text-transform:uppercase;">
+      Your First Step in Ivoryhorn
+    </div>
+  </div>
+</div>
+
+<!-- ===================================================== -->
+<!--  BEFORE YOU BEGIN • small memory note                 -->
+<!-- ===================================================== -->
+<div style="margin:16px 18px 6px;padding:10px 12px;border-left:3px solid #D8B36A;
+            background:rgba(24,19,15,.88);border-radius:7px;font-family:Georgia,serif;
+            font-size:11px;line-height:1.5;color:#F7EFE3;">
+  <strong style="display:block;margin-bottom:3px;color:#FFE2B5;font-size:11px;
+                 letter-spacing:1px;text-transform:uppercase;">❖ Before You Begin</strong>
+  Add your name, pronouns, boundaries, and pacing preferences to
+  <strong style="color:#FFF0D5;">Memory</strong> so Asterok can tailor
+  the vault’s silence to you.
+</div>
